@@ -1,7 +1,7 @@
 Comandos usados practica 1
 
-date
-time
+1. date
+2. time
 ============================================
 
 
