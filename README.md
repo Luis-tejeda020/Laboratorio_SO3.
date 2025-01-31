@@ -2,6 +2,7 @@ Comandos usados practica 1
 
 1. date
 2. time
+
 ============================================
 
 
@@ -13,7 +14,8 @@ Comandos usados practica 2
 4. nano /etc/network/interfaces
 5. nmcli con add type ethernet ifane enp0s8 con-name static-enp0s8 ipv4.method manual ipv4.addresses 192.168.1.101/24 ipv4.gateway 192.168.1.1 ipv4.dns '8.8.8.8 8.8.4.4'
 6. nmcli
-7. nmtui 
+7. nmtui
+
 ============================================
 
 
@@ -29,7 +31,8 @@ ls /home/
 6. usermod -aG sudo
 7. sudo deluser
 8. deluser -remove-home
-9. groupdel 
+9. groupdel
+
 ============================================
 
 
@@ -52,4 +55,5 @@ Comandos usados practica 4
 16. cd ..
 17. rm -r
 18. sudo rm -r
+
 ============================================
